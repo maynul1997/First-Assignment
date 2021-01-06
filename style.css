@@ -1,0 +1,174 @@
+body{
+    
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+
+    font-size: 50px;
+    color: rgb(11, 15, 59);
+}
+
+#title{
+
+    font-size: 50px;
+    color: rgb(255, 180, 20);
+
+}
+
+.half-part{
+
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-part img{
+
+    width: 100%;
+}
+
+.hire-button{
+
+    text-decoration: none;
+    background-image:linear-gradient(180deg,rgb(252, 177, 17), rgb(253, 210, 92));
+    color:white;
+    margin-bottom: 2%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+   
+
+}
+
+section{
+
+    height:400px;
+    padding-bottom:200px;
+}
+
+
+
+.cv-button{
+
+    text-decoration: none;
+    background-image:linear-gradient(180deg,rgb(255, 167, 5), rgb(245, 219, 102));
+    color:white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+h3{
+
+    color: rgb(17, 13, 49);
+    font-size: 30px;
+}
+
+
+.third-div{
+
+    width:25%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-image-slice: 1;
+
+
+}
+.third-div img{
+
+        width: 100%;
+        
+
+}
+
+.box-apply{
+
+    box-shadow:3px 3px 3px 3px gray;
+        border-radious:10px;
+        
+
+}
+
+p{
+    color:dimgray;
+}
+
+.latest{
+
+    margin-left: 20px;
+    padding-top: 30px;
+}
+
+h5{
+
+    font-size: 35px;
+    text-align: center;
+    color: rgb(14, 13, 82);
+
+}
+#work{
+
+    color: rgb(255, 171, 15);
+}
+
+
+
+.third-section{
+
+      
+        background-color: rgb(248, 248, 248);
+
+}
+
+
+.final-section{
+
+        height: 500px;
+        width: 60%;
+        padding:40px 0 40px;
+        margin: auto;
+
+}
+
+.last-banner{
+
+    background-image: url("image/Group_33094_1.png");
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 20px;
+
+}
+
+.last-banner img{
+
+        width: 100%;
+
+}
+
+
+.work{
+
+    font-size: 30px;
+    color: floralwhite;
+    width: 40%;
+    margin-left: 10%;
+    
+   
+
+}
+
+
+.button{
+
+    text-decoration: none;
+    background-image:linear-gradient(180deg,rgb(255, 167, 5), rgb(245, 219, 102));
+    color:white;
+    border-radius: 5px;
+    font-weight: 700;
+   
+
+}
